@@ -10,6 +10,7 @@ public:
             a += e;
         }
 
+
         return a+e+i+o+u;
     }
 };
